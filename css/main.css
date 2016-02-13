@@ -64,3 +64,9 @@ svg{
 	font-size: 5em;
 	font-weight: black;
 }
+
+.my-name{
+	font-size: 1.3em;
+	font-weight: bold;
+	padding-left: 1%;
+}
