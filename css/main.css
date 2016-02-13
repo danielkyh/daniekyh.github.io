@@ -1,5 +1,5 @@
 #about-me {
-	font-weight: 500;
+	font-weight: bold;
 	margin-top: 0;
 	padding-top: 5%;
 	padding-bottom: 5%;
@@ -54,4 +54,13 @@ svg{
 
 .iris-text{
 	color: white;
+}
+
+.rotate{
+	font-size: 2em;
+}
+
+.first-word{
+	font-size: 5em;
+	font-weight: black;
 }
