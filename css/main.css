@@ -1,0 +1,57 @@
+#about-me {
+	font-weight: 500;
+	margin-top: 0;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	color: white;
+}
+
+.zero-top-margin{
+	margin-top: 0;
+}
+
+.nav-links{
+	font-weight: 200;
+	font-size: .5em;
+}
+
+.nav-wrapper{
+	color: black;
+}
+
+.app-desc{
+	height: 100%;
+}
+
+.row{
+	width: 95%;
+}
+
+svg{
+	fill: #EF233C;
+}
+
+.title{
+	font-weight: 600;
+}
+
+.contact-section a {
+	color: black;
+}
+
+.contact-section a:visited{
+	color: black;
+}
+
+.card-panel{
+	max-height: 400px;
+	overflow: scroll;
+}
+
+.card-title{
+	color: #616161;
+}
+
+.iris-text{
+	color: white;
+}
