@@ -70,3 +70,11 @@ svg{
 	font-weight: bold;
 	padding-left: 1%;
 }
+
+.rotate{
+	-webkit-transform: translate3d(0,0,0)
+}
+
+#contact{
+	height: 800px;
+}
