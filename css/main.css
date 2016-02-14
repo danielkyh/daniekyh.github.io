@@ -82,3 +82,8 @@ svg{
 #contact{
 	height: 800px;
 }
+
+.side-nav{
+	z-index: 9999;
+	opacity: 1;
+}
