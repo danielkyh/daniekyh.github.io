@@ -43,7 +43,7 @@
 }
 
 .rotating.flip .front {
-  z-index: 1;
+  z-index: -1;
 }
 
 .rotating .back {
@@ -62,7 +62,7 @@
 
 
 .rotating.flip .back {
-  z-index: 2;
+  z-index: -11;
   display: block;
   opacity: 1;
   

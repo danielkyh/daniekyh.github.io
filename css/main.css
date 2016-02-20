@@ -36,6 +36,8 @@ svg{
 
 .title{
 	font-weight: 600;
+	font-size: 4em;
+	color: #5A5A5A;
 }
 
 .contact-section a {
@@ -79,6 +81,11 @@ svg{
 	-webkit-transform: translate3d(0,0,0);
 }
 
-#contact{
-	height: 800px;
+.contact-icon{
+	max-height: 150px;
+}
+
+.side-nav{
+	z-index: 9999;
+	opacity: 1;
 }
